@@ -76,7 +76,6 @@ class Example_SB_1  {
     }
 }
 
-
 class RunnableDemo {
     static class RunnableClass implements Runnable {
         boolean suspended = false;
